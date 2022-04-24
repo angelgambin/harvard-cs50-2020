@@ -1,0 +1,68 @@
+.jumbotron {
+  border-style: solid;
+  border-color: #187cff;
+  border-width: 5px;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.jumbotron h1 {
+  font-family: "tahoma";
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.jumbotron img {
+  float: left;
+}
+
+#marginp {
+  padding-top: 40px;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: #187cff;
+}
+
+.btn-group {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media (max-width: 500px) {
+  .jumbotron {
+    border-style: dotted;
+  }
+}
+#fotoproducto {
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#foto {
+  margin-top: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#foto {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+table {
+  width: 70%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table th {
+  color: #0046a1;
+}
+table td {
+  color: #494949;
+}
