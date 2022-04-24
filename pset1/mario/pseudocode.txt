@@ -1,0 +1,4 @@
+1. ask user for input n
+    - if input is not between 1 and 8, repeat step 1
+    - if input is between 1 and 8, go to step 2
+2. loop n times and for each loop print the corresponding n hashes and a new line
